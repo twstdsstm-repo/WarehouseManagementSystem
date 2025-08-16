@@ -8,7 +8,7 @@
 
 ---
 
-## 🔧 Tech Stack: C# | ASP.NET | React | Postgresql | Docker
+## 🔧 Tech Stack: C# | ASP.NET | Entity Framework Core | React | Postgresql | Docker
 
 ## 📦 Системные требования
 
