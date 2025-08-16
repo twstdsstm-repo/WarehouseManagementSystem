@@ -8,6 +8,8 @@
 
 ---
 
+## 🔧 Tech Stack: C# | ASP.NET | React | Postgresql | Docker
+
 ## 📦 Системные требования
 
 - [Docker](https://www.docker.com/products/docker-desktop) (версия 24.0+)
@@ -39,6 +41,8 @@ docker-compose up --build
 
 - API: http://localhost:5030
 - Frontend: http://localhost:3000
+
+---
 
 ## 🔧 Если потребуется убрать зависимость от Docker/Изменить логин и пароль от БД
 
@@ -72,3 +76,5 @@ cd .\frontend\
 npm install
 npm start
 ```
+
+---
